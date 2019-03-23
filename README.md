@@ -18,4 +18,5 @@ Lexington's [2007 Impervious layer](https://data.lexingtonky.gov/dataset/impervi
 Maps and analysis for Fayette County
 * Map of [roads with sidewalks](https://outragegis.com/tiles/fayette/sidewalks/). 
 * Analysis of pedsheds using only sidewalks and shared uses paths ([PNG, 6.8 MB](https://github.com/boydx/walkability-analysis/blob/master/example-output/LexingtonWalkabilityAnalysis.png))
+* TileMill map ([zoom into Lexington](http://sweb.uky.edu/~blshea1/pedshed/))
 
